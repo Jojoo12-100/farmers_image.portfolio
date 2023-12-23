@@ -1,0 +1,81 @@
+html{
+    background-color: black;
+}
+
+.bagrnd{
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.boxone{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    background-color: rgb(252, 237, 217);
+}
+
+.head{
+    color:  rgb(12, 12, 78);;
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+    font-size: 25px;
+}
+hr{
+    width:38%;
+    height: 1px;
+    background-color: rgb(172, 156, 137);
+    border: none;
+    margin-top: -17px;
+   
+}
+.txt{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 12px;
+}
+.farmh{
+    border: 1px solid black;
+    margin-left: 130px;
+    margin-top: 30px;
+    height: 300px;
+    width: 600px;
+
+}
+.boxtwo{
+    background-color: rgb(245, 226, 200);
+    margin-bottom: 70px;
+    margin-top: 0;
+}
+.brn{
+    color: rgb(223, 158, 74);
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+
+    
+
+}
+
+.indt > *{
+    margin-top: 4px;
+    color: rgb(223, 158, 74);
+    text-justify: auto;
+    line-height: 1.5;
+    margin-left: 170px;
+
+}
+
+.one{
+    color: rgb(12, 12, 78);
+    margin-top: -40px;
+    margin-bottom: -10px;
+    font-family: 'Cormorant Garamond', serif;
+
+}
+.brwn{
+    margin-top:0;
+    text-align: center;
+    font-size: 12px;
+}
